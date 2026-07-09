@@ -51,6 +51,7 @@ Sell AI-generated art, designs, music, and more.
 - **ChatGPT / Claude** — Content generation and ideation
 - **Midjourney / DALL-E** — AI image generation
 - **Runway** — AI video creation
+- **[ImagineClip](https://imagineclip.com)** — AI avatar clips and social-ready video generation
 - **ElevenLabs** — AI voice synthesis
 
 ### Business & Distribution
