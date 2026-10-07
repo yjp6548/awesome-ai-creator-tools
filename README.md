@@ -58,6 +58,7 @@ Sell AI-generated art, designs, music, and more.
 - **Stripe / PayPal** — Payment processing
 - **ConvertKit** — Email marketing for creators
 - **Notion** — Product management and planning
+- [ComprarSeguidoresIG.es Content Planner](https://comprarseguidoresig.es/resources/es/content-planner.xlsx) — Free Spanish XLSX with 30 editable rows for content topics, formats, dates and result reviews.
 
 ### Analytics & Growth
 - **Google Analytics** — Traffic insights
