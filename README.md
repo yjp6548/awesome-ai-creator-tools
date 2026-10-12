@@ -52,6 +52,7 @@ Sell AI-generated art, designs, music, and more.
 - **Midjourney / DALL-E** — AI image generation
 - **Runway** — AI video creation
 - **ElevenLabs** — AI voice synthesis
+- **[QuietTake Noise Remover](https://noiseremover.site/)** — Browser-local RNNoise cleanup for short voiceovers, with playback comparison and WAV export; free without signup or audio upload, ≤50MB and ≤5min.
 
 ### Business & Distribution
 - [NaviAI Hub](https://naviaihub.com) — Sell and distribute globally
