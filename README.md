@@ -40,6 +40,7 @@
 
 Sell AI-generated art, designs, music, and more.
 
+- [Ideoy](https://ideoy.ai) - Remake this week's viral meme videos from one selfie (AI image-to-video, 9:16, freemium).
 - [NaviAI Hub](https://naviaihub.com) — Multi-category, global distribution
 - Creative Fabrica — Fonts, graphics, crafts
 - Design Cuts — Design resources
